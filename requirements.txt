@@ -1,0 +1,9 @@
+pydantic
+langchain
+langgraph
+langchain-core
+langchain-community
+langchain-openai
+fastapi
+uvicorn
+PyGithub
