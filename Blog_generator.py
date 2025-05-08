@@ -8,7 +8,7 @@ from langchain_core.prompts import PromptTemplate # type: ignore
 
 
 
-llm = ChatOpenAI(model="gpt-3.5-turbo", api_key="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")
+llm = ChatOpenAI(model="gpt-3.5-turbo", api_key="API")
 
 
 # Agent 4: Blog Generator
