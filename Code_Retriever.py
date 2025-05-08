@@ -3,7 +3,7 @@ from github import Github
 
 
 # Environment variables
-GITHUB_TOKEN = os.getenv("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")
+GITHUB_TOKEN = os.getenv("API")
 # Initialize clients
 github_client = Github(GITHUB_TOKEN)
 
